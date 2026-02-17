@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+rdkit
+deepchem
+torch
+torchvision
+scikit-learn
+mdanalysis
